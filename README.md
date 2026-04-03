@@ -2,7 +2,7 @@
 
 <p align="center">
 Design and build End-to-End AI systems - From research and model development to scalable production systems. <br>
-  • Backend • Frontend • Cloud Deployment •
+  • Model Development • Backend • Frontend • Cloud Deployment •
 </p>
 
 

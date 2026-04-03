@@ -1,9 +1,10 @@
 <h1 align="center">Rafael Costa</h1>
 
 <p align="center">
-I design and build end-to-end AI systems<br>
-From research and model development to production systems, backend, frontend, and cloud deployment.
+Design and build End-to-End AI systems - From research and model development to scalable production systems. <br>
+  • Backend • Frontend • Cloud Deployment •
 </p>
+
 
 <h3 align="center">• Expertise •</h3>
 

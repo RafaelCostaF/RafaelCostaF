@@ -1,52 +1,47 @@
-## Hi there 👋
-
-<!--
-**RafaelCostaF/RafaelCostaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Rafael Costa
 
-Engenharia de IA | Machine Learning | Visão Computacional | Arquitetura de Soluções de IA
+AI Engineer | Generative AI | LLMs | Reinforcement Learning | ML Systems
 
-## Sobre mim
+I work with research, development, and deployment of Artificial Intelligence systems.
+Main focus on Generative AI, Large Language Models, Reinforcement Learning, and Machine Learning systems in production. 
+Experienced in building end-to-end AI solutions, from model development to system architecture, frontend, backend, and cloud deployment.
 
-Atuo com desenvolvimento, implantação e arquitetura de soluções de Inteligência Artificial, com foco em Machine Learning, Visão Computacional e sistemas inteligentes aplicados a problemas reais.
+---
 
-Tenho interesse em pesquisa, IA aplicada, otimização e desenvolvimento de sistemas inteligentes.
+## Research & Interests
 
-## Áreas de interesse
+Machine Learning • Large Language Models • Retrieval-Augmented Generation (RAG) • Reinforcement Learning • Optimization • AI Systems • Multi-Agent Systems
 
-* Machine Learning
-* Visão Computacional
-* Deep Learning
-* Otimização
-* Ciência de Dados
-* Arquitetura de Sistemas de IA
-* Python / C++ / OpenCV / PyTorch
+---
 
-## Projetos
+## Tech Stack
 
-Neste perfil você encontrará projetos relacionados a:
+Python • PyTorch • LangChain • FastAPI • React • Neo4j • SQL/NoSQL • Docker • Linux • Git • Cloud (Azure, GCP)
 
-* Visão computacional
-* Modelos de machine learning
-* Algoritmos de otimização
-* Análise de dados
-* Projetos acadêmicos e de pesquisa
+---
 
-## Contato
+## Current Focus
 
-* LinkedIn: https://www.linkedin.com/in/rafaelcostaf/
-* Lattes: (link)
-* Email: (email)
+* Generative AI and LLM Applications
+* RAG and Knowledge Systems
+* Reinforcement Learning and Multi-Agent Systems
+* AI System Architecture and Deployment
+* End-to-End AI Applications
+
+---
+
+## Education
+
+**MSc in Artificial Intelligence** – Federal University of Bahia (UFBA)
+**MBA in Software Engineering** – FIAP
+**BSc in Management Information Systems** – UNEB
+**Postgraduate Degree in Systems Analysis, Project and Management** – UNOPAR
+**Technology Degree in Systems Analysis and Development** – UNOPAR
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/rafaelcostaf/
+Lattes: (your link)
+Email: rafaelcostaf_@hotmail.com

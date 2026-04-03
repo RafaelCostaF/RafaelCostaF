@@ -6,7 +6,7 @@ Design and build End-to-End AI systems - From research and model development to 
 </p>
 
 
-<h3 align="center">• Expertise •</h3>
+<h3 align="center">• Expertise & Tech Stack•</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/AI_Engineer-2d2d2d?style=for-the-badge"/>
@@ -18,8 +18,6 @@ Design and build End-to-End AI systems - From research and model development to 
 <img src="https://img.shields.io/badge/Reinforcement_Learning-9467bd?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cloud-17a2b8?style=for-the-badge"/>
 </p>
-
-<h3 align="center">• Tech Stack •</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=azure,gcp,postgres,mongodb,python,pytorch,tensorflow,sklearn,fastapi,docker,react,nextjs,nodejs,vercel,git,linux&perline=8"/>

@@ -38,3 +38,27 @@ Design and build End-to-End AI systems - From research and model development to 
 </td>
 </tr>
 </table>
+
+
+
+<h3 align="center">• Education •</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/MSc-Artificial_Intelligence_UFBA-ffffff?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/MBA-Software_Engineering_FIAP-ffffff?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/BSc-Management_Information_Systems_UNEB-ffffff?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+</div>
+
+<h3 align="center">• Contact •</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rafaelcostaf/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="http://lattes.cnpq.br/3727677435891056" target="_blank">
+<img src="https://img.shields.io/badge/Lattes-Curriculum-1f3b73?style=for-the-badge"/>
+</a>
+<a href="mailto:rafaelcostaf_@hotmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>

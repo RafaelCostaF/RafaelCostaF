@@ -5,8 +5,6 @@ I design and build end-to-end AI systems<br>
 From research and model development to production systems, backend, frontend, and cloud deployment.
 </p>
 
-<br>
-
 <h3 align="center">• Expertise •</h3>
 
 <p align="center">
@@ -20,15 +18,11 @@ From research and model development to production systems, backend, frontend, an
 <img src="https://img.shields.io/badge/Cloud-17a2b8?style=for-the-badge"/>
 </p>
 
-<br>
-
 <h3 align="center">• Tech Stack •</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=azure,gcp,postgres,mongodb,python,pytorch,tensorflow,sklearn,fastapi,docker,react,nextjs,nodejs,vercel,git,linux&perline=8"/>
 </p>
-
-<br>
 
 <h3 align="center">• Education •</h3>
 
@@ -37,8 +31,6 @@ From research and model development to production systems, backend, frontend, an
 <img src="https://img.shields.io/badge/MBA-Software_Engineering_FIAP-b02a37?style=for-the-badge&color=white"/>
 <img src="https://img.shields.io/badge/BSc-Management_Information_Systems_UNEB-1e7e34?style=for-the-badge&color=white"/>
 </p>
-
-<br>
 
 <h3 align="center">• Contact •</h3>
 

@@ -27,9 +27,9 @@ Design and build End-to-End AI systems - From research and model development to 
 <h3 align="center">• Education •</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/MSc-Artificial_Intelligence_UFBA-ffffff?style=for-the-badge&logo=academia&logoColor=black"/>
-<img src="https://img.shields.io/badge/MBA-Software_Engineering_FIAP-ffffff?style=for-the-badge&logo=google-scholar&logoColor=black"/>
-<img src="https://img.shields.io/badge/BSc-Management_Information_Systems_UNEB-ffffff?style=for-the-badge&logo=graduation-cap&logoColor=black"/>
+<img src="https://img.shields.io/badge/MSc-Artificial_Intelligence_UFBA-ffffff?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/MBA-Software_Engineering_FIAP-ffffff?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/BSc-Management_Information_Systems_UNEB-ffffff?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 </div>
 
 <h3 align="center">• Contact •</h3>

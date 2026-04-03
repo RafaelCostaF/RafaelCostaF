@@ -1,47 +1,42 @@
-# Rafael Costa
+<h1 align="center">Rafael Costa</h1>
 
-AI Engineer | Generative AI | LLMs | Reinforcement Learning | ML Systems
+<p align="center">
+AI Engineer • Generative AI • LLMs • Reinforcement Learning • ML Systems • Cloud
+</p>
 
-I work with research, development, and deployment of Artificial Intelligence systems.
-Main focus on Generative AI, Large Language Models, Reinforcement Learning, and Machine Learning systems in production. 
-Experienced in building end-to-end AI solutions, from model development to system architecture, frontend, backend, and cloud deployment.
+<p align="center">
+I design and build end-to-end AI systems — from research and model development  
+to production systems, backend, frontend, and cloud deployment.
+</p>
 
----
+<br>
 
-## Research & Interests
+<p align="center">
+🚀 Generative AI & LLMs &nbsp;&nbsp;•&nbsp;&nbsp;
+🧠 RAG & Knowledge Systems &nbsp;&nbsp;•&nbsp;&nbsp;
+🤖 Multi-Agent Systems &nbsp;&nbsp;•&nbsp;&nbsp;
+🏗️ AI Architecture &nbsp;&nbsp;•&nbsp;&nbsp;
+⚙️ Production ML
+</p>
 
-Machine Learning • Large Language Models • Retrieval-Augmented Generation (RAG) • Reinforcement Learning • Optimization • AI Systems • Multi-Agent Systems
+<br><br>
 
----
+<h3 align="center">🎓 Education</h3>
 
-## Tech Stack
+<p align="center">
+MSc in Artificial Intelligence — UFBA <br>
+MBA in Software Engineering — FIAP <br>
+BSc in Management Information Systems — UNEB
+</p>
 
-Python • PyTorch • LangChain • FastAPI • React • Neo4j • SQL/NoSQL • Docker • Linux • Git • Cloud (Azure, GCP)
+<br>
 
----
+<h3 align="center">🔗 Contact</h3>
 
-## Current Focus
-
-* Generative AI and LLM Applications
-* RAG and Knowledge Systems
-* Reinforcement Learning and Multi-Agent Systems
-* AI System Architecture and Deployment
-* End-to-End AI Applications
-
----
-
-## Education
-
-**MSc in Artificial Intelligence** – Federal University of Bahia (UFBA)
-**MBA in Software Engineering** – FIAP
-**BSc in Management Information Systems** – UNEB
-**Postgraduate Degree in Systems Analysis, Project and Management** – UNOPAR
-**Technology Degree in Systems Analysis and Development** – UNOPAR
-
----
-
-## Contact
-
-LinkedIn: https://www.linkedin.com/in/rafaelcostaf/
-Lattes: (your link)
-Email: rafaelcostaf_@hotmail.com
+<p align="center">
+<a href="https://www.linkedin.com/in/rafaelcostaf/" target="_blank">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="http://lattes.cnpq.br/3727677435891056" target="_blank">Lattes</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:rafaelcostaf_@hotmail.com">Email</a>
+</p>

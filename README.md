@@ -37,6 +37,15 @@ Design and build End-to-End AI systems - From research and model development to 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rafaelcostaf/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="http://lattes.cnpq.br/3727677435891056" target="_blank">
+<img src="https://img.shields.io/badge/Lattes-Curriculum-1f3b73?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="mailto:rafaelcostaf_@hotmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+

@@ -6,23 +6,19 @@ Design and build End-to-End AI systems - From research and model development to 
 </p>
 
 <br>
-<table align="center" width="100%">
+<table align="center" width="90%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <h3>Tech Stack</h3>
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 <h3>Tools & Frameworks</h3>
-</td>
-
-<td align="center" width="33%">
-<h3>Education</h3>
 </td>
 </tr>
 
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 <img src="https://img.shields.io/badge/AI_Engineer-ffff55?style=for-the-badge"/><br>
 <img src="https://img.shields.io/badge/System_Architecture-4e4e4f?style=for-the-badge"/><br>
@@ -36,21 +32,22 @@ Design and build End-to-End AI systems - From research and model development to 
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 <img src="https://skillicons.dev/icons?i=azure,gcp,postgres,mongodb,python,pytorch,tensorflow,sklearn,fastapi,docker,react,nextjs,nodejs,vercel,git,linux&perline=4"/>
 
 </td>
-
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/MSc-Artificial_Intelligence_UFBA-ffffff?style=for-the-badge&logo=academia&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/MBA-Software_Engineering_FIAP-ffffff?style=for-the-badge&logo=google-scholar&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/BSc-Management_Information_Systems_UNEB-ffffff?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-
-</td>
 </tr>
 </table>
+
+<h3 align="center">• Education •</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/MSc-Artificial_Intelligence_UFBA-ffffff?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/MBA-Software_Engineering_FIAP-ffffff?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/BSc-Management_Information_Systems_UNEB-ffffff?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+</div>
+
 <h3 align="center">• Contact •</h3>
 
 <p align="center">

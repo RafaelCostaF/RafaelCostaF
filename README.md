@@ -9,7 +9,8 @@ Design and build End-to-End AI systems - From research and model development to 
 <h3 align="center">• Expertise & Tech Stack•</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI_Engineer-2d2d2d?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Engineer-ffff55?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Architecture-4e4e4f?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Generative_AI_&_LLMs-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-6f42c1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Multi--Agent_Systems-ff7f0e?style=for-the-badge"/>
@@ -26,9 +27,9 @@ Design and build End-to-End AI systems - From research and model development to 
 <h3 align="center">• Education •</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/MSc-Artificial_Intelligence_UFBA-1f3b73?style=for-the-badge&color=white"/>
-<img src="https://img.shields.io/badge/MBA-Software_Engineering_FIAP-b02a37?style=for-the-badge&color=white"/>
-<img src="https://img.shields.io/badge/BSc-Management_Information_Systems_UNEB-1e7e34?style=for-the-badge&color=white"/>
+<img src="https://img.shields.io/badge/MSc-Artificial_Intelligence_UFBA-1f3b73?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/MBA-Software_Engineering_FIAP-b02a37?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/BSc-Management_Information_Systems_UNEB-1e7e34?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 </p>
 
 <h3 align="center">• Contact •</h3>
